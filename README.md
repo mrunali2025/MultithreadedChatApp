@@ -24,3 +24,7 @@ Console-based interface
 
 Lightweight and easy to run
 
+#output :
+
+[Multithreaded.txt](https://github.com/user-attachments/files/20853434/Multithreaded.txt)
+
